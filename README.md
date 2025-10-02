@@ -2,6 +2,10 @@
 A python project to seek the last date of Phd Form submission in selected colleges of Bangalore
 It uses regex to seek the last date. 
 
+The project is deployed in streamlit community cloud
+![PhDTracker](https://phdtracker.streamlit.app)
+
+
 ## Usage
 1. Clone the repository
 2. Install the required packages
