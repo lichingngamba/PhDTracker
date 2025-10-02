@@ -3,7 +3,7 @@ A python project to seek the last date of Phd Form submission in selected colleg
 It uses regex to seek the last date. 
 
 The project is deployed in streamlit community cloud
-![PhDTracker](https://phdtracker.streamlit.app)
+[PhDTracker](https://phdtracker.streamlit.app)
 
 
 ## Usage
